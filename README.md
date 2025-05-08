@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-📚 Technical Writings : Explore my articles on low-level programming, CPU architecture, and performance optimization at alxers.github.io/index.html .
-💡 Projects : Check out my hands-on implementations, including a CPU emulator, profiler, and logic-based games at alxers.github.io/projects.html .
+- 📚 Technical Writings : Explore my articles on low-level programming, CPU architecture, and performance optimization at [alxers.github.io/index.html](alxers.github.io/index.html).
+- 💡 Projects : Check out my hands-on implementations, including a CPU emulator, profiler, and logic-based games at [alxers.github.io/projects.html](alxers.github.io/projects.html).
 
 <!--
 **alxers/alxers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
